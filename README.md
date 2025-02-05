@@ -1,2 +1,3 @@
-# build-local-tf-model
-Create a module to manage AWS S3 buckets used to host static websites.
+# AWS S3 static website bucket
+
+This module provisions AWS S3 buckets configured for static website hosting.
